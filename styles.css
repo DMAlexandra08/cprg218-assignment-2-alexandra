@@ -6,6 +6,11 @@ header {
     background-color: #120323;
 }
 
+img {
+    border: 5px solid #d9043d;
+    border-radius: 2px;
+}
+
 aside {
     background-color: #97bf04;
 }
