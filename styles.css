@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #120323;
+}
+
+aside {
+    background-color: #97bf04;
+}
+
+footer {
+    background-color: #d9043d;
+}
+
+@media screen and (max-width:480px) {
+    
+}
