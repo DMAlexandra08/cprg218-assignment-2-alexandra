@@ -7,7 +7,7 @@ header {
     color: #97bf04;
 }
 
-img {
+#container img {
     border: 5px solid #d9043d;
     border-radius: 2px;
 }
