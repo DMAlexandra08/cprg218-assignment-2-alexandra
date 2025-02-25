@@ -20,14 +20,10 @@ footer {
     background-color: #d9043d;
 }
 
-@media screen and (max-width:480px) {
+@media screen and (min-width:769px) {
     
 }
 
-@media screen and (max-width:980px) {
-    
-}
-
-@media screen and (max-width:1201px) {
+@media screen and (min-width:1000px) {
     
 }
