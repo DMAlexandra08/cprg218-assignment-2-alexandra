@@ -9,12 +9,6 @@ header {
     flex-direction: row;
 }
 
-#header-container img{
-    display: flex;
-    flex-direction: row;
-
-}
-
 #container img {
     border: 5px solid #d9043d;
     border-radius: 2px;
