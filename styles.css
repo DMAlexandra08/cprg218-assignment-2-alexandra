@@ -9,7 +9,7 @@ header {
     flex-direction: row;
 }
 
-figure img{
+#header-container img{
     display: flex;
     flex-direction: row;
 
