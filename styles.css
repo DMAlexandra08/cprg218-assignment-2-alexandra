@@ -5,13 +5,15 @@
 header {
     background-color: #120323;
     color: #97bf04;
+    text-align: center;
     display: flex;
     flex-direction: column;
 }
 
-#header-container img{
+.header-container img{
     width: 100px;
     height: auto;
+    
 }
 
 #container img {
