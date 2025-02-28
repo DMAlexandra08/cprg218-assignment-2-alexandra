@@ -9,6 +9,11 @@ header {
     flex-direction: column;
 }
 
+#header-container img{
+    width: 100px;
+    height: auto;
+}
+
 #container img {
     border: 5px solid #d9043d;
     border-radius: 2px;
