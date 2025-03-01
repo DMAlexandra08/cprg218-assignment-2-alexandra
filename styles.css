@@ -5,5 +5,21 @@
 header {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 70%;
+    background-color: #120323;
+    background-size: cover;
+    gap: 2rem;
+    color: #97bf04;
+    text-align: center;
+}
+
+.header-container img{
+    width: 100px;
+    height: auto;
+}
+
+figure img{
     
 }
