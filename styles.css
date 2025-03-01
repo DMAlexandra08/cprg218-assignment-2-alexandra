@@ -21,5 +21,10 @@ header {
 }
 
 figure img{
-    
+    border: 4px solid #d9043d;
+    width: 100%;
+}
+
+body{
+    margin: 1rem;
 }
