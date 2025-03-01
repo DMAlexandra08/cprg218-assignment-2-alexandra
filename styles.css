@@ -42,3 +42,37 @@ footer{
     background-color: #d9043d;
 }
 
+@media screen and (min-width:769px){
+    header{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 2rem;
+        padding: 8px;
+    }
+    #container img{
+        max-width: 250px;
+        max-height: 200px;
+        flex-direction: row;
+        align-items: center;
+    }
+    figure{
+        display: flex;
+        flex-direction: row;
+        gap: 2rem;
+        align-items: center;
+        font-size: 75%;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    #container {
+        display: flex;
+        flex: 2;
+    }
+    aside{
+        padding: 8px;
+        margin-top: 20px;
+        gap: 3rem;
+    }
+}
