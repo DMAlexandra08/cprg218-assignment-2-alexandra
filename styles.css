@@ -28,3 +28,17 @@ figure img{
 body{
     margin: 1rem;
 }
+
+aside{
+    background-color: #97bf04;
+    padding: 2rem;
+    margin: 0rem 0rem 2rem 0rem;
+}
+
+footer{
+    padding: 2rem;
+    color: white;
+    text-align: center;
+    background-color: #d9043d;
+}
+
